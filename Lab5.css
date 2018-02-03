@@ -1,0 +1,34 @@
+#display {
+    margin: auto;
+    width: 70vw;
+    height: 300px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    background-color: aquamarine;
+}
+
+#controls {
+    margin: 50px auto;
+    width: 50vw;
+    text-align: center;
+}
+
+#numDisplay {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+}
+
+body {
+    font-family: Avenir;
+    font-size: 18px;
+}
